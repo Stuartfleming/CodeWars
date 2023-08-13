@@ -7,6 +7,5 @@ function pipeFix(numbers){
   {
     array.push(i);
   }
-  
-  return array;
+    return array;
 }
